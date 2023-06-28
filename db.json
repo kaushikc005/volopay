@@ -15,7 +15,7 @@
         "currency":"SGD"
       },
       "card_type":"burner",
-      "expiry":"9feb",
+      "expiry":"9 April 2023",
       "limit":100,
       "status":"active"
     },
@@ -26,6 +26,9 @@
       "owner_id":2,
       "spent":{"value":50,"currency":"SGD"},
       "available_to_spend":{"value":250,"currency":"SGD"},
-      "card_type":"subscription","limit":10,"status":"active"}
+      "card_type":"subscription",
+      "expiry":"1st March 2023",
+      "limit":10,
+      "status":"active"}
   ]
   }
