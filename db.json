@@ -83,6 +83,97 @@
       "expiry":"1st March 2023",
       "limit":10,
       "status":"active"
-}
+},
+ {
+      "name":"Quickbooks"
+      ,
+      "budget_name":"Amazon Prime",
+      "owner_id":2,
+      "spent":{"value":50,"currency":"SGD"},
+      "available_to_spend":{"value":250,"currency":"SGD"},
+      "card_type":"subscription",
+      "expiry":"1st March 2023",
+      "limit":10,
+      "status":"active"
+},
+  {
+      "name":"Member3",
+      "budget_name":"Spotify",
+      "owner_id":3,
+      "spent":{"value":1000,"currency":"SGD"},
+      "available_to_spend":{"value":550,"currency":"SGD"},
+      "card_type":"subscription",
+      "expiry":"2nd August 2023",
+      "limit":200,
+      "status":"active"
+},
+{
+      "name":"Member3",
+      "budget_name":"Youtube Premium",
+      "owner_id":3,
+      "spent":{"value":1000,"currency":"SGD"},
+      "available_to_spend":{"value":550,"currency":"SGD"},
+      "card_type":"subscription",
+      "expiry":"2nd August 2023",
+      "limit":200,
+      "status":"active"
+},
+  {
+      "name":"Mixmax",
+      "budget_name":"Spotify",
+      "owner_id":1,
+      "spent":
+      {
+        "value":100,
+        "currency":"SGD"
+      },
+      "available_to_spend":
+      {
+        "value":1000,
+        "currency":"SGD"
+      },
+      "card_type":"burner",
+      "expiry":"9 April 2023",
+      "limit":100,
+      "status":"active"
+    },
+  {
+      "name":"Mixmax",
+      "budget_name":"Softwaresubscription",
+      "owner_id":1,
+      "spent":
+      {
+        "value":100,
+        "currency":"SGD"
+      },
+      "available_to_spend":
+      {
+        "value":100,
+        "currency":"SGD"
+      },
+      "card_type":"subscription",
+      "expiry":"11 October 2023",
+      "limit":200,
+      "status":"active"
+    },
+ {
+      "name":"Mixmax",
+      "budget_name":"Linkedin",
+      "owner_id":1,
+      "spent":
+      {
+        "value":100,
+        "currency":"SGD"
+      },
+      "available_to_spend":
+      {
+        "value":100,
+        "currency":"SGD"
+      },
+      "card_type":"subscription",
+      "expiry":"11 October 2023",
+      "limit":200,
+      "status":"active"
+    }
   ]
   }
